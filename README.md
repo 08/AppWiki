@@ -1,4 +1,4 @@
-appWiki
+AppWiki
 =======
 
 App Wiki
